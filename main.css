@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+    margin-top: 300px;
+}
+.task-form {
+    margin-bottom: 20px;
+}
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+.task-list li {
+    background: #f3f3f3;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+li.completed {
+    text-decoration: line-through;
+}
+
+
